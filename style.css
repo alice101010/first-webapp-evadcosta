@@ -1,0 +1,110 @@
+/* Add CSS styles for your web site here and use them in index.html. */
+body {
+    font-family: Verdana;
+   
+   
+}
+
+/* navbar */
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+    margin-top: 0px;
+    
+   
+    background-color: #00120B;
+}
+li {
+    display: inline;
+    padding: 10px;
+}
+li:hover {
+    display: inline;
+    padding: 10px;
+    background: #364045;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer {
+    position: fixed;
+    background-color: #00120B;
+    color: white;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+    
+    width: 100px;
+    padding: 20px;
+  
+}
+
+button {
+    text-align: center;
+    display: inline;
+    border-radius: 10px;
+    padding: 8px;
+    background-color: white;
+   
+    font-family: Verdana;
+    box-shadow: 4px 4px 4px;
+}
+
+.box {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: table;
+    margin: 5px;
+    float: left;
+    
+   
+}
+
+#bottom {
+    display: block;
+}
+
+#bottom button {
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+#game {
+
+    width: 31.2%;
+    text-align: center;
+    padding: 10px;
+    display: table;
+    margin: auto;
+   
+    
+}
+
+.blank {
+    color: white;
+}
+
+textarea {
+    height: 200px;
+    width: 500px;
+    border-radius: 5px;
+}
+
+
+.center {
+    width: 500px;
+    margin: auto;
+
+    margin-bottom: 20px;
+    margin-top: 10px;
+    
+    text-align: center;
+}
